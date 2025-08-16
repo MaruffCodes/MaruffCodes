@@ -11,15 +11,13 @@
 
 - 🤝 I’m looking for help with **turning half-built projects into fully working ones.**
 
-- 👨‍💻 All of my projects are available at [my profile, featuring experiments that somehow compile.](my profile, featuring experiments that somehow compile.)
+- 👨‍💻 All of my projects are available at my profile, featuring experiments that somehow compile.
 
-- 📝 I regularly write articles on [MERN stack, DSA, and survival tips for coders.](MERN stack, DSA, and survival tips for coders.)
+- 📝 I regularly write articles on MERN stack, DSA, and survival tips for coders.
 
 - 💬 Ask me about **MERN, DSA, or how to survive infinite bugs.**
 
 - 📫 How to reach me **marufcodes@gmail.com**
-
-- 📄 Know about my experiences [in this resume (spoiler: I write code).](in this resume (spoiler: I write code).)
 
 - ⚡ Fun fact **I debug faster with snacks nearby.**
 
