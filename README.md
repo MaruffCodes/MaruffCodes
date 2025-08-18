@@ -37,3 +37,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruffcodes&show_icons=true&locale=en" alt="maruffcodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruffcodes&" alt="maruffcodes" /></p>
+
+[![Maruf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maruffcodes&bg_color=0d1117&color=ffffff&line=00bfff&point=ffcc00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
