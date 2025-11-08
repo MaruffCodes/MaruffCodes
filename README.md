@@ -24,8 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maruf-kotwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maruf-kotwal" height="30" width="40" /></a>
-<a href="https://instagram.com/marruuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marruuf" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/marufcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marufcodes" height="30" width="40" /></a>
+<a href="https://instagram.com/marrruuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marruuf" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/marufcodes" target="blank"><img align="center"  alt="marufcodes" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/maruf_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maruf_codes" height="30" width="40" /></a>
 </p>
 
