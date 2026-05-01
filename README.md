@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ted (Maruf Kotwal)</h1>
+<h1 align="center">Hi 👋, I'm Maruf Kotwal </h1>
 <h3 align="center">Building Agentic AI systems and writing code that future me will definitely regret.</h3>
 
 <p align="center">
